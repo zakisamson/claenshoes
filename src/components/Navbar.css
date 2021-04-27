@@ -1,0 +1,33 @@
+.Nav {
+  width: 100%;
+  padding: 20px 0px 20px 0px;
+  border-bottom: 0.5px solid whitesmoke;
+}
+
+.Navbar {
+  max-width: 2160px;
+  display: flex;
+  align-items: center;
+}
+
+.Navbar .col1 {
+  flex: 0.3;
+  text-align: left;
+}
+
+.Navbar .col2 {
+  flex: 0.7;
+  text-align: right;
+}
+
+.Navbar .col1 h3 {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.Navbar .col2 a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  padding: 0px 50px 0px 50px;
+}

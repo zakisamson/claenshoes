@@ -1,0 +1,19 @@
+.Services .container {
+  text-align: left;
+}
+
+.Services .servicesCtn {
+  display: flex; 
+}
+
+.Services .servicesCtn .col1 {
+  flex: 0.3;
+}
+
+.Services .servicesCtn .col2 {
+  flex: 0.4;
+}
+
+.Services .servicesCtn .col3 {
+  flex: 0.3;
+}
