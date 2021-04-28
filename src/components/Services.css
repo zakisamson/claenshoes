@@ -2,16 +2,30 @@
   text-align: left;
 }
 
+.Services h2 {
+  margin-top: 50px;
+}
+
 .Services .servicesCtn {
-  display: flex; 
+  display: flex;
+  margin-top: 50px;
 }
 
 .Services .servicesCtn .col1 {
   flex: 0.3;
+  text-align: left;
 }
 
 .Services .servicesCtn .col2 {
   flex: 0.4;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 150px;
+}
+
+.Services .servicesCtn .col2 img {
+  justify-content: center;
+  align-items: center;
 }
 
 .Services .servicesCtn .col3 {

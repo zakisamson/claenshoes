@@ -11,7 +11,7 @@
 .Hero .container p {
   text-align: left;
   position: absolute;
-  bottom: 250px;
+  bottom: 450px;
   font-size: 60px;
   font-weight: 700;
 }
@@ -19,8 +19,8 @@
 .Hero .container a {
   text-align: left;
   position: absolute;
-  bottom: 125px;
-  left: 30px;
+  bottom: 300px;
+  left: 50px;
   font-size: 17px;
   font-weight: 500;
   text-decoration: none;

@@ -1,0 +1,18 @@
+.Delivery {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+.Delivery .Big {
+  display: flex;
+  margin-top: 50px;
+}
+
+.Delivery .Big .Input {
+  flex: 0.4;
+}
+
+.Delivery .Big .Location {
+  flex: 0.6;
+}
