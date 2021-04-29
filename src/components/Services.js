@@ -6,8 +6,8 @@ import Shoes from "../assets/Shoes_mid4.svg"
 export const Services = () => {
     return(
         <div className="Services">
-            <h2 className="container">SERVICES</h2>
-            <div className="servicesCtn container">
+            <h2 className="containerApp">SERVICES</h2>
+            <div className="servicesCtn containerApp">
                 <div className="col1">
                     <Services_lists heading="DEEP CLEAN" subheading="cleans your shoes to the nook and cranny" price="Rp. 90.000" />
                     <Services_lists heading="REPAIR" subheading="we care for your shoes health" price="Rp. 80,000 ~ Rp. 150,000" />

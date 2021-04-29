@@ -16,3 +16,21 @@
 .Delivery .Big .Location {
   flex: 0.6;
 }
+
+.Delivery .Big .Input .inputLabel {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.Delivery .Big .Input .inputPlace {
+  font-size: 23px;
+  font-weight: 500;
+  color: #212121;
+  width: 545px;
+  border: 0.5px solid lightgray;
+  margin-bottom: 30px;
+}
+
+.Delivery .Big .Location h3 {
+  font-size: 23px;
+}

@@ -5,7 +5,7 @@ export const Navbar = () => {
     return(
         <div className="Nav">
             <div className="Navbar">
-                <div className="col1 container">
+                <div className="col1 containerApp">
                     <h3>ClaenShoes</h3>
                 </div>
                 <div className="col2">

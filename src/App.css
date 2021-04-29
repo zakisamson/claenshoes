@@ -7,6 +7,10 @@
   text-align: center;
 }
 
-.container {
+.containerApp {
   margin: 0px 50px 0px 50px;
+}
+
+a {
+  color: #212121;
 }

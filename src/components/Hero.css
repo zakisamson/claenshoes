@@ -8,7 +8,7 @@
   position: relative;
 }
 
-.Hero .container p {
+.Hero .containerApp p {
   text-align: left;
   position: absolute;
   bottom: 450px;
@@ -16,7 +16,7 @@
   font-weight: 700;
 }
 
-.Hero .container a {
+.Hero .containerApp a {
   text-align: left;
   position: absolute;
   bottom: 300px;
@@ -29,4 +29,5 @@
   border: 0.5px solid whitesmoke;
   border-radius: 50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  color: #212121;
 }
